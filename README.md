@@ -29,9 +29,9 @@
 
 <h3 align="left"> Connect with me :</h3>
 <p>
-  <a href="https://linkedin.com/in/engineervinay"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/engineervinay"><img alt="vinay patil linkedin"src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-<a href="https://twitter.com/meengineervinay"><img src="https://img.shields.io/badge/@MeEngineerVinay-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+<a href="https://twitter.com/meengineervinay"><img alt="vinay patil twitter"src="https://img.shields.io/badge/@MeEngineerVinay-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
   </p>
   <!--
 **Engineervinay/Engineervinay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
