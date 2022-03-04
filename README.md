@@ -22,8 +22,6 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-<h3 align="left">Stats:</h3>
-
 <h3 align="left"> Connect with me :</h3>
 <p>
   <a href="https://linkedin.com/in/engineervinay"><img alt="vinay patil linkedin"src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white"/></a>
