@@ -25,7 +25,6 @@
 <h3 align="left">Stats:</h3>
 
 ![Vinay's GitHub stats](https://github-readme-stats.vercel.app/api?username=engineervinay&theme=dark&show_icons=true)
-![Vinay's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=engineervinay&theme=dark&show_icons=true)
 
 <h3 align="left"> Connect with me :</h3>
 <p>
